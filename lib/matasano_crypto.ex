@@ -1,2 +1,0 @@
-defmodule MatasanoCrypto do
-end
